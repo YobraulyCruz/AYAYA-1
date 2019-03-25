@@ -1,0 +1,143 @@
+body{
+    background-image:url("https://i.ytimg.com/vi/fnk33SDRwhM/maxresdefault.jpg");
+    background-size:100%;
+    Background-repeat:no-repeat;
+}
+h1{
+    color:purple;
+    text-align:center;
+    font-size:50px;
+    background-color:black;
+    font-family: 'Courgette', cursive;
+ 
+}
+h2{
+    color:purple; 
+}
+p{
+    color:purple;
+}
+input{
+    text-align:center;
+}
+button{
+    width:70px;
+    height:50px;
+    font-family: 'Courgette', cursive;
+    background-color:purple;
+    border: none;
+}
+#quiz{
+   display:none;
+   width:30%;
+    background-color:black;
+    text-align:center;
+    margin-top:200px;
+    margin:0 auto;
+    padding:20px;
+}
+#quiz1{
+   display:none;
+   width:30%;
+    background-color:black;
+    text-align:center;
+    margin-top:200px;
+    margin:0 auto;
+    padding:20px;
+}
+#quiz2{
+   display:none;
+   width:30%;
+    background-color:black;
+    text-align:center;
+    margin-top:200px;
+    margin:0 auto;
+    padding:20px;
+}
+#quiz3{
+   display:none;
+   width:30%;
+    background-color:black;
+    text-align:center;
+    margin-top:200px;
+    margin:0 auto;
+    padding:20px;
+}
+#first{
+    display:flex;
+    align-items:center;
+    justify-content:center;
+    flex-direction:column;
+}
+.jonathan{
+    display:none;
+   width:30%;
+    text-align:center;
+    margin-top:200px;
+    margin:0 auto;
+    padding:20px;
+}
+.joseph{
+    display:none;
+   width:30%;
+    text-align:center;
+    margin-top:200px;
+    margin:0 auto;
+    padding:20px;
+}
+.jotaro{
+    display:none;
+   width:30%;
+    text-align:center;
+    margin-top:200px;
+    margin:0 auto;
+    padding:20px;
+}
+.josuke{
+    display:none;
+   width:30%;
+    text-align:center;
+    margin-top:200px;
+    margin:0 auto;
+    padding:20px;
+}
+.giorno{
+    display:none;
+   width:30%;
+    text-align:center;
+    margin-top:200px;
+    margin:0 auto;
+    padding:20px;
+}
+.DIO{
+    display:none;
+   width:30%;
+    text-align:center;
+    margin-top:200px;
+    margin:0 auto;
+    padding:20px;
+}
+.Kira{
+    display:none;
+   width:30%;
+    text-align:center;
+    margin-top:200px;
+    margin:0 auto;
+    padding:20px;
+}
+.secret{
+   display:none;
+   width:30%;
+    text-align:center;
+    margin-top:200px;
+    margin:0 auto;
+    padding:20px;
+}
+.fugo{
+    display:none;
+   width:30%;
+    text-align:center;
+    margin-top:200px;
+    margin:0 auto;
+    padding:20px;
+}
